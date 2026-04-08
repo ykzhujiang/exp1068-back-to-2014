@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "summary": {
+    "passed": 1,
+    "failed": 0,
+    "total": 1
+  },
+  "segments": [
+    {
+      "segment": "Segment 01",
+      "status": "PASS",
+      "video": "/Users/ahzhu_agent/.openclaw/workspace/projects/exp1068-back-to-2014/production/output/ep01/Segment 01.mp4",
+      "attempts": 3
+    }
+  ]
+}

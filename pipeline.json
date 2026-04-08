@@ -12,12 +12,35 @@
   },
   "github_org": "ykzhujiang",
   "github_repo": "exp1068-back-to-2014",
-  "status": "step3_done",
+  "status": "step4_done",
   "steps": {
-    "step1b": {"status": "done"},
-    "step1.5": {"status": "done"},
-    "step3": {"status": "done"},
-    "step4": {"status": "not_started"},
-    "step6": {"status": "not_started"}
+    "step1b": {
+      "status": "done"
+    },
+    "step1.5": {
+      "status": "done"
+    },
+    "step3": {
+      "status": "done"
+    },
+    "step4": {
+      "status": "done",
+      "segments": {
+        "Segment 01": {
+          "task_id": "cgt-20260408140837-q9ftz",
+          "status": "done",
+          "video": "production/output/ep01/Segment 01.mp4",
+          "check_verdict": "BEST_SELECTED",
+          "attempts": 3,
+          "retry_task_id": "cgt-20260408141939-fsb24",
+          "_qc_retries": 1
+        }
+      },
+      "started_at": "2026-04-08T06:08:38.523589+00:00",
+      "completed_at": "2026-04-08T06:31:30.799598+00:00"
+    },
+    "step6": {
+      "status": "not_started"
+    }
   }
 }
