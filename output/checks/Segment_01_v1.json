@@ -1,0 +1,18 @@
+{
+  "verdict": "FAIL",
+  "hard_constraints": {
+    "no_subtitles": false,
+    "no_looking_at_camera": true,
+    "no_slow_motion": false,
+    "no_axis_crossing": true
+  },
+  "semantic_score": 3,
+  "visual_score": 4,
+  "character_consistency": "SKIP",
+  "scene_consistency": "SKIP",
+  "issues": [
+    "视频画面下方出现了明显的对话字幕文字。",
+    "开场散落的文件掉落速度明显低于正常物理速度，存在慢动作效果。"
+  ],
+  "retry_suggestion": "请严格遵循约束：1. 画面中绝对不能出现任何字幕或文字叠加；2. 所有的动作（包括人物动作和物体如文件的掉落）必须保持正常的实时物理速度，坚决避免任何慢动作效果。"
+}

@@ -1,0 +1,19 @@
+{
+  "verdict": "FAIL",
+  "hard_constraints": {
+    "no_subtitles": true,
+    "no_looking_at_camera": false,
+    "no_slow_motion": true,
+    "no_axis_crossing": true
+  },
+  "semantic_score": 3,
+  "visual_score": 5,
+  "character_consistency": "SKIP",
+  "scene_consistency": "SKIP",
+  "issues": [
+    "00:01处陈默醒来时直视了镜头，违反了不看镜头的约束。",
+    "画面中老刘出场时没有按照分镜要求手举自拍杆。",
+    "陈默在对应的Part 5部分没有表现出端坐的姿态，而是全程保持站立。"
+  ],
+  "retry_suggestion": "请在陈默醒来的画面加入强负面提示词避免其直视镜头，并明确指定其视线看向右侧远方；提高“老刘右手举自拍杆”等道具动作描述的权重；分段生成时，需明确指定Part 5中陈默的物理状态为“端坐”，并在Part 6中加入“站起身来”的动作指令以确保姿态连贯。"
+}
