@@ -1,0 +1,23 @@
+{
+  "name": "回到2014",
+  "config": {
+    "theme": "2026年AI创业公司CEO陈默猝死后重生到2014年大学毕业典礼",
+    "genre": "都市重生爽文",
+    "setting": "2014年中国大学校园",
+    "style": "realistic",
+    "ratio": "9:16",
+    "characters": 2,
+    "appearance": "east-asian",
+    "episode": "ep01"
+  },
+  "github_org": "ykzhujiang",
+  "github_repo": "exp1068-back-to-2014",
+  "status": "step3_done",
+  "steps": {
+    "step1b": {"status": "done"},
+    "step1.5": {"status": "done"},
+    "step3": {"status": "done"},
+    "step4": {"status": "not_started"},
+    "step6": {"status": "not_started"}
+  }
+}
