@@ -1,0 +1,31 @@
+{
+  "verdict": "FAIL",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "陈默",
+      "type": "character",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    },
+    {
+      "label": "老刘",
+      "type": "character",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    },
+    {
+      "label": "办公室-暗",
+      "type": "scene",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    },
+    {
+      "label": "校园操场-夏",
+      "type": "scene",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    }
+  ],
+  "summary": "0/4 assets passed"
+}
