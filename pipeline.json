@@ -12,7 +12,7 @@
   },
   "github_org": "ykzhujiang",
   "github_repo": "exp1068-back-to-2014",
-  "status": "step4_done",
+  "status": "done",
   "steps": {
     "step1b": {
       "status": "done"
@@ -40,7 +40,11 @@
       "completed_at": "2026-04-08T06:31:30.799598+00:00"
     },
     "step6": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T06:31:50.370720+00:00",
+      "completed_at": "2026-04-08T06:31:51.249353+00:00",
+      "output": "production/output/ep01/final.mp4",
+      "size_mb": 3.6
     }
   }
 }
